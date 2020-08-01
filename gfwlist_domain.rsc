@@ -5708,3 +5708,4 @@ add regexp="(\\.|^)zyzc9\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)zzcartoon\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)zzcloud\\.me\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)zzux\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)libreswan\\.org\$" type=FWD forward-to=$gfwdns
