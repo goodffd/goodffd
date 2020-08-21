@@ -2256,6 +2256,7 @@ add address=103.154.66.0/23 list=CN
 add address=103.154.162.0/23 list=CN
 add address=103.154.164.0/23 list=CN
 add address=103.154.168.0/23 list=CN
+add address=103.154.242.0/23 list=CN
 add address=103.192.0.0/19 list=CN
 add address=103.192.48.0/21 list=CN
 add address=103.192.56.0/22 list=CN
