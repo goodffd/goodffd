@@ -3369,6 +3369,7 @@ add regexp="(\\.|^)nanzao\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)naol\\.ca\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)naol\\.cc\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nat\\.gov\\.tw\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)nationalawakening\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)national-lottery\\.co\\.uk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nationsonline\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)nationwide\\.com\$" type=FWD forward-to=$gfwdns
