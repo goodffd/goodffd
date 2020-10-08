@@ -1956,6 +1956,7 @@ add regexp="(\\.|^)gmll\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gmodules\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gmozomg\\.izihost\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gnci\\.org\\.hk\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)gnews\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)go141\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goagent\\.biz\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)goagent\\.codeplex\\.com\$" type=FWD forward-to=$gfwdns
@@ -3179,6 +3180,7 @@ add regexp="(\\.|^)mimiai\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mimivip\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mimivv\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)mindrolling\\.org\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)mingdemedia\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)minghui-a\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)minghui-b\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)minghui\\.org\$" type=FWD forward-to=$gfwdns
@@ -4009,6 +4011,7 @@ add regexp="(\\.|^)renminbao\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)renyurenquan\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)research\\.jmsc\\.hku\\.hk\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)resilio\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)resistchina\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)retweeteffect\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)retweetist\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)retweetrank\\.com\$" type=FWD forward-to=$gfwdns
