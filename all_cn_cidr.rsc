@@ -1990,7 +1990,6 @@ add address=103.119.200.0/22 list=CN
 add address=103.119.224.0/22 list=CN
 add address=103.120.52.0/22 list=CN
 add address=103.120.72.0/22 list=CN
-add address=103.120.76.0/24 list=CN
 add address=103.120.88.0/22 list=CN
 add address=103.120.96.0/21 list=CN
 add address=103.120.140.0/22 list=CN
@@ -2962,7 +2961,6 @@ add address=113.208.96.0/19 list=CN
 add address=113.208.128.0/17 list=CN
 add address=113.209.0.0/16 list=CN
 add address=113.212.0.0/18 list=CN
-add address=113.212.64.0/22 list=CN
 add address=113.212.88.0/22 list=CN
 add address=113.212.100.0/22 list=CN
 add address=113.212.184.0/21 list=CN
