@@ -2268,6 +2268,7 @@ add regexp="(\\.|^)gsp\\.target\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gstatic\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gtricks\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)gts-vpn\\.com\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)gtv\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)guaguass\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)guaguass\\.org\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)guancha\\.org\$" type=FWD forward-to=$gfwdns
