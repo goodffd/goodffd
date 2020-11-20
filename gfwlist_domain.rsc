@@ -299,8 +299,8 @@ add regexp="(\\.|^)api\\.pureapk\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)api\\.recaptcha\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)api-secure\\.recaptcha\\.net\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)api-verify\\.recaptcha\\.net\$" type=FWD forward-to=$gfwdns
+add regexp="(\\.|^)apkcombo\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)apk-dl\\.com\$" type=FWD forward-to=$gfwdns
-add regexp="(\\.|^)apkdler\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)apkmirror\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)apkmonk\\.com\$" type=FWD forward-to=$gfwdns
 add regexp="(\\.|^)apkplz\\.com\$" type=FWD forward-to=$gfwdns
