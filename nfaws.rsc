@@ -305,8 +305,6 @@ add address=52.93.150.0/23 list=netflix
 add address=52.93.153.80/32 list=netflix
 add address=52.93.153.148/31 list=netflix
 add address=52.93.156.0/22 list=netflix
-add address=52.93.162.128/27 list=netflix
-add address=52.93.162.160/31 list=netflix
 add address=52.93.178.128/26 list=netflix
 add address=52.93.178.192/27 list=netflix
 add address=52.93.178.224/29 list=netflix
