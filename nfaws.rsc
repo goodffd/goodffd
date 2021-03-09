@@ -190,8 +190,7 @@ add address=13.34.36.0/24 list=netflix
 add address=13.34.38.0/25 list=netflix
 add address=13.34.38.128/26 list=netflix
 add address=13.34.39.0/24 list=netflix
-add address=13.34.40.0/24 list=netflix
-add address=13.34.41.0/26 list=netflix
+add address=13.34.40.0/23 list=netflix
 add address=13.35.0.0/16 list=netflix
 add address=13.36.0.0/16 list=netflix
 add address=13.37.0.0/16 list=netflix
@@ -843,6 +842,8 @@ add address=52.93.127.200/29 list=netflix
 add address=52.93.127.216/30 list=netflix
 add address=52.93.127.220/31 list=netflix
 add address=52.93.127.232/32 list=netflix
+add address=52.93.127.237/32 list=netflix
+add address=52.93.127.238/32 list=netflix
 add address=52.93.129.95/32 list=netflix
 add address=52.93.131.217/32 list=netflix
 add address=52.93.133.127/32 list=netflix
@@ -1333,6 +1334,7 @@ add address=69.107.6.200/29 list=netflix
 add address=69.107.6.208/28 list=netflix
 add address=69.107.6.224/29 list=netflix
 add address=69.107.7.0/28 list=netflix
+add address=69.107.7.16/29 list=netflix
 add address=70.132.0.0/18 list=netflix
 add address=70.224.192.0/18 list=netflix
 add address=70.232.96.0/20 list=netflix
@@ -1486,10 +1488,17 @@ add address=150.222.122.92/30 list=netflix
 add address=150.222.122.96/28 list=netflix
 add address=150.222.122.112/30 list=netflix
 add address=150.222.122.116/31 list=netflix
+add address=150.222.129.19/32 list=netflix
+add address=150.222.129.20/31 list=netflix
+add address=150.222.129.62/31 list=netflix
+add address=150.222.129.64/30 list=netflix
+add address=150.222.129.110/31 list=netflix
 add address=150.222.129.112/28 list=netflix
-add address=150.222.129.128/29 list=netflix
-add address=150.222.129.136/30 list=netflix
-add address=150.222.129.140/31 list=netflix
+add address=150.222.129.128/28 list=netflix
+add address=150.222.129.144/29 list=netflix
+add address=150.222.129.240/29 list=netflix
+add address=150.222.129.248/30 list=netflix
+add address=150.222.129.252/32 list=netflix
 add address=150.222.133.0/24 list=netflix
 add address=150.222.134.0/23 list=netflix
 add address=150.222.136.0/24 list=netflix
